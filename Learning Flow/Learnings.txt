@@ -1,0 +1,15 @@
+Intro to Rest Assured 
+Writing first Rest Assured script 
+Hitting HTTP Requests like GET, POST, PUT, PATCH, DELETE
+
+Validate response status:-
+Response contains-
+
+1. Response status/reponse
+2. Response body
+3. Response header
+
+Validate response status/reponse-
+		--status code
+		--error status code
+		--response status line
